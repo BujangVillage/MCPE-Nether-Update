@@ -28,7 +28,11 @@
       "applovin_native": "unitid",
       
       "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
+      "ironsource_inter": "1215fccad",
+
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID"
       
       
     }
@@ -45,22 +49,86 @@
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "MS Skyblock (Nether Update)",
+        "role": "The first Skyblock made by Menes Studios. Build, expand, and explore 20 different themed islands. Also remember to explore the nether and, if you can, kill the Ender Dragon! Have Fun!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/6/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/6/MS-Skyblock_1598619652.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/6/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/6/dua.png"
+    },
+    {
+        "name": "SimplySurvival (1.16 Nether Update!)",
+        "role": "In a world where everything you need is within reach, and have easy to get (and make) anything you like in survival. Get any blocks, items, and even entities with only 2 presses of a button, SimplySurvival will have all the things you need in order to build, crate, and design without creative.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/7/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/7/SimplySurvival.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/7/emnpat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/7/dua.png"
+    },
+    {
+        "name": "Nether Update Structure Ideas",
+        "role": "I have worked hard to create two cool structures for the Nether Update! There are two structures that can be viewed: the Warped Dungeon and an Abandoned Portal design. These structures are not official structures and probably will not be in the new Nether Update.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/4/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/4/Nether Update Structure Ideas by CreepX451.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/4/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/4/empat.png"
+    },
+    {
+        "name": "Magic Skyblock! Nether Update!",
+        "role": "This is a Skyblock with some extra features that make it unlike any other! This Skyblock is a very fresh interpretation of the concept with a dirt generator and ore spawns! Special thanks to Willpurpz and Haiden K. For helping me speed this up and create other cool things as well.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/5/empat.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/5/Skyblock(2).mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/5/lima.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/5/enma.png"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Fletchercraft 1.16.201 Nether Update! V2.9",
+        "role": "Fletchercraft is a 16x16 resolution texture pack that adds more realism to Minecraft. The texture has a much softer design and the colors. The texture pack gives more realism in surviva",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/9/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/9/Fletchercraft 1..16.201 Nether Update! V2.8.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/9/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/9/dua.png"
+    },
+    {
+        "name": "Custom Title: 'Nether Update' Letters",
+        "role": "Tired of having the same title always despite receiving the latest updates? Well, with this package you will always have the title updated to the latest version of Minecraft, yes.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/10/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/10/CUSTOM HOME BUTTONS by Sofia Redmond.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/10/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/10/satu.png"
+    },
+    {
+        "name": "Short Swords (Nether Update)",
+        "role": "Are you tired of the vanilla swords taking up half of your screen, or you are just love using simple daggers, this texture pack makes the swords tiny and make the swords so much short and remove the super tall normal vanilla swords, anyways there is a world of super short swords waiting you. ",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/1/empat.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/1/Short-Swords_1594134121.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/1/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/1/dua.png"
+    },
+    {
+        "name": "Better Flowers (Nether Update!)",
+        "role": "Have you ever thought that the flowers in Minecraft needed a bit of improving? Did you ever feel that their should be more? Well this texture pack can help you with that! It makes most of the flowers and mushrooms have more in each block, so its more useful for building! It also adds flowers that resemble the double tall flowers!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/2/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/2/BetterFlowersV2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/2/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/2/dua.png"
+    },
+    {
+        "name": "Realistic Vanilla - Nether Update!",
+        "role": "This texture pack changes Minecraft to be more realistic, without losing the essence of the game, several mobs have small changes, some Spawn eggs are single look, etc",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/3/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/3/Realistic Vanilla.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/3/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/3/dua.png"
+    },
+    {
+        "name": "MCPE Nether Update BETA",
+        "role": "Minecraft Java Edition Nether Update Addon Ported to MCPE! Note this addon is still in beta so a lot of things are changing, getting added, getting removed, etc. If you have any bugs or problems report them to me on discord: Rainbowed#4953 or on twitter @rainbowstevepe",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Nether Update/8/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Nether Update/8/MCPE_Nether_Update_BETA.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Nether Update/8/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Nether Update/8/dua.png"
     }
   ],
   "Skins": [
